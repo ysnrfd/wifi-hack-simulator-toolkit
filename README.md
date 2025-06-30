@@ -45,6 +45,7 @@ git clone https://github.com/ysnrfd/wifi-hack-simulator-toolkit.git
 cd wifi-hack-simulator-toolkit
 pip install -r requirements.txt
 Running Simulations
+```
 bash
 # View help menu
 python simulator.py --help
