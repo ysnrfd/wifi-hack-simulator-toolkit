@@ -44,8 +44,8 @@ The Wi-Fi Security Simulator is an interactive educational package that:
 git clone https://github.com/ysnrfd/wifi-hack-simulator-toolkit.git
 cd wifi-hack-simulator-toolkit
 pip install -r requirements.txt
-Running Simulations
 ```
+Running Simulations
 bash
 # View help menu
 python simulator.py --help
